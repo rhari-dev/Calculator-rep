@@ -4,4 +4,10 @@ class Calculator
 	{
 		
 	}
+	
+	static int Penambaham(int a, int b)
+	{
+		return a + b;
+	}
+	
 )
